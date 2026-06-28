@@ -55,7 +55,7 @@ def wait_for_call_completion(call_id: str, poll_interval: int = 10, timeout: int
 
 def save_transcript(call_id: str, scenario_name: str, details: dict) -> str:
     """Saves the transcript text to transcripts/<scenario_name>.txt"""
-    transcript = details.get("transcript", "No transcript available.")
+    transcript = details.get("artifact", {}).get("transcript", "No transcript available.")
     path = f"transcripts/{scenario_name}.txt"
 
     with open(path, "w") as f:
@@ -70,7 +70,9 @@ def save_transcript(call_id: str, scenario_name: str, details: dict) -> str:
 
 def save_recording(call_id: str, scenario_name: str, details: dict) -> str:
     """Downloads the recording audio file to recordings/<scenario_name>.mp3"""
-    recording_url = details.get("recordingUrl") or details.get("artifact", {}).get("recordingUrl")
+    artifact = details.get("artifact", {})
+    recording = artifact.get("recording", {})
+    recording_url = recording.get("stereoUrl") or recording.get("mono", {}).get("combinedUrl")
 
     if not recording_url:
         print("  No recording URL found in call details.")
