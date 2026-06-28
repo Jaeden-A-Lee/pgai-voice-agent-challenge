@@ -10,7 +10,7 @@ import os
 import requests
 from dotenv import load_dotenv
 
-from assistant_config import ASSISTANT_ID, build_system_prompt
+from assistant_config import ASSISTANT_ID, build_system_prompt, ASSISTANT_MODEL_CONFIG
 
 load_dotenv()
 
@@ -40,6 +40,10 @@ def trigger_call(scenario_goal: str) -> dict:
         },
         "assistantOverrides": {
             "model": {
+                "provider": ASSISTANT_MODEL_CONFIG["provider"],
+                "model": ASSISTANT_MODEL_CONFIG["model"],
+                "temperature": ASSISTANT_MODEL_CONFIG["temperature"],
+                "maxTokens": ASSISTANT_MODEL_CONFIG["max_tokens"],
                 "messages": [
                     {
                         "role": "system",
