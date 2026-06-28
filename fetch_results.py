@@ -54,8 +54,40 @@ def wait_for_call_completion(call_id: str, poll_interval: int = 10, timeout: int
 
 
 def save_transcript(call_id: str, scenario_name: str, details: dict) -> str:
-    """Saves the transcript text to transcripts/<scenario_name>.txt"""
-    transcript = details.get("artifact", {}).get("transcript", "No transcript available.")
+    """
+    Builds a clearly-labeled transcript from the structured messages
+    array (rather than Vapi's default flat transcript string, which
+    labels turns ambiguously as "AI"/"User"), and saves it to
+    transcripts/<scenario_name>.txt
+    """
+    artifact = details.get("artifact", {})
+    messages = artifact.get("messages", [])
+
+    label_map = {
+        "assistant": "Vapi",
+        "bot": "Vapi",
+        "user": "Pretty Good AI",
+        "system": "System Prompt",
+    }
+
+    lines = []
+    for msg in messages:
+        role = msg.get("role", "unknown")
+        text = msg.get("message", "")
+
+        # Skip the system prompt itself — not part of the spoken conversation
+        if role == "system":
+            continue
+
+        label = label_map.get(role, role)
+        lines.append(f"{label}: {text}")
+
+    if lines:
+        transcript = "\n".join(lines)
+    else:
+        # Fallback to the flat transcript string if structured messages are missing
+        transcript = artifact.get("transcript", "No transcript available.")
+
     path = f"transcripts/{scenario_name}.txt"
 
     with open(path, "w") as f:
