@@ -72,13 +72,13 @@ def trigger_call(scenario_goal: str) -> dict:
 if __name__ == "__main__":
     # Quick manual test: trigger one simple call before wiring up the
     # full scenario loop in main.py.
-    test_goal = (
-        "Call to schedule a general appointment as a new patient. "
-        "You twisted your ankle playing basketball recently and want "
-        "to be seen soon."
+    scenario_1_goal = (
+        "Call to schedule a general appointment as a new patient at this "
+        "practice. You twisted your ankle playing basketball recently and "
+        "want to be seen soon. If asked, confirm you are a new patient."
     )
 
-    result = trigger_call(test_goal)
+    result = trigger_call(scenario_1_goal)
     print("Call triggered successfully.")
     print("Call ID:", result.get("id"))
     print("Full response:", result)
