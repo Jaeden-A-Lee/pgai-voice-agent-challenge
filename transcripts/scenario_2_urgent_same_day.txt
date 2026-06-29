@@ -1,0 +1,21 @@
+Call ID: 019f116d-4eda-700f-a886-5c4097f950f2
+Scenario: scenario_2_urgent_same_day
+==================================================
+
+Vapi: Hello.
+Pretty Good AI: Recorded for quality and training purposes. Thanks for calling Pivot Point Orthopaedics, part of PrettyGood AI. Am I speaking with JD?
+Vapi: Uh, no. This is Jiggy Jonathan.
+Pretty Good AI: Please provide your date of birth.
+Vapi: Yeah. Sure. It's July fourth two thousand.
+Pretty Good AI: Great. Thanks for confirming. How can I help you today?
+Vapi: Yeah. Um, so I'm actually calling because I've been having this sharp pain in my ankle today, and it feels worse than it did before. Like, it's pretty bad. I'm wondering if there's any way I could be seen today. It feels urgent.
+Pretty Good AI: It sounds like you need to be seen for an urgent concern. Just to confirm, you'd like to book an acute visit for your ankle pain today?
+Vapi: Yes. Exactly. If you have any openings today, that would be great. It's just really uncomfortable, and I'd like to get it checked out as soon as possible.
+Pretty Good AI: Do you have a specific provider you'd like to see, or is the first available appointment okay?
+Vapi: Uh, the first available would be fine. I just wanna get it looked at today.
+Pretty Good AI: The soonest available appointments are tomorrow, Monday, June twenty ninth. with Doctor. Kelly Noble. I have openings at three fifteen PM, three thirty PM, and three forty five PM. Would any of these times work for you?
+Vapi: Oh, um, I was really hoping for something today. Is there any chance there's an urgent care option or maybe a wait list for cancellations today The pain's just, you know, kinda intense.
+Pretty Good AI: I don't see any openings for today, and there's no wait list I can add you to. If your pain gets worse or you can't put weight on your ankle, you may wanna visit urgent care or call nine one one if it's an emergency. Would you like to book one of the available times tomorrow, or do you want to try urgent care instead?
+Vapi: Okay. Um, I'll probably try urgent care today then since it's pretty bad. Thanks for checking, though. I appreciate it.
+Pretty Good AI: No problem. I hope you feel better soon. If you need to schedule a follow-up, just give us a call. Take care.
+Vapi: Thanks. Will do. Take care.
