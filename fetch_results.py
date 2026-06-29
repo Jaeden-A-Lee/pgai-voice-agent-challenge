@@ -19,6 +19,10 @@ VAPI_CALL_BASE_URL = "https://api.vapi.ai/call"
 # Statuses that mean the call is fully finished and data should be ready
 TERMINAL_STATUSES = {"ended"}
 
+# Statuses that mean the call failed outright and will never reach "ended"
+# with usable data — fail fast instead of waiting out the full timeout
+FAILURE_STATUSES = {"failed"}
+
 
 def get_call_details(call_id: str) -> dict:
     """Fetches the current state of a call from Vapi."""
@@ -33,7 +37,7 @@ def get_call_details(call_id: str) -> dict:
     return response.json()
 
 
-def wait_for_call_completion(call_id: str, poll_interval: int = 10, timeout: int = 300) -> dict:
+def wait_for_call_completion(call_id: str, poll_interval: int = 10, timeout: int = 480) -> dict:
     """
     Polls Vapi until the call status is 'ended', or until timeout (seconds).
     Returns the final call details.
@@ -46,6 +50,9 @@ def wait_for_call_completion(call_id: str, poll_interval: int = 10, timeout: int
 
         if status in TERMINAL_STATUSES:
             return details
+
+        if status in FAILURE_STATUSES:
+            raise RuntimeError(f"Call {call_id} failed with status: {status}")
 
         time.sleep(poll_interval)
         elapsed += poll_interval
