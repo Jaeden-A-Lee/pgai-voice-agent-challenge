@@ -1,0 +1,18 @@
+Call ID: 019f11aa-c480-700f-aa02-63bd0712859b
+Scenario: scenario_4_cancel_appointment
+==================================================
+
+Vapi: Hello.
+Pretty Good AI: Recorded for quality and training purposes. Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. Am I speaking with JD?
+Vapi: Uh, no. This is Jiggy Jonathan.
+Pretty Good AI: Please provide your date of birth
+Vapi: Yeah. Sure. It's July fourth two thousand.
+Pretty Good AI: Great. Thanks for confirming. How can I help you today?
+Vapi: Yeah. So I need to cancel an upcoming appointment I have. My schedule's changed, and I just don't need the visit right now.
+Pretty Good AI: You have an appointment with Abricker on Thursday, July sixteenth. Would you like me to cancel this one?
+Vapi: Yep. That's the one. Can you go ahead and cancel that for me? Thanks.
+Pretty Good AI: Your appointment on July sixteenth with doctor Bricker has been canceled. Is there anything else I can help you with?
+Vapi: Nope. That's all I needed. Thanks for taking care of that. Have a good one.
+Pretty Good AI: You're all set. Have a great day.
+Vapi: Thanks, you too. Bye.
+Pretty Good AI: Goodbye

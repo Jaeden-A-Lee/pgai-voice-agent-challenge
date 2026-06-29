@@ -8,13 +8,16 @@ All test calls made to +1-805-439-8008 using an automated AI patient persona via
 
 **Severity:** Medium
 
-**Call:** transcript-scenario_3_reschedule_clean.txt at 2:16
+**Call:** transcript-scenario_3_reschedule_clean.txt at 2:16, 
+    also in transcript-scenario_4_cancel_appointment.txt at 0:56
 
-**Details:** While listing open reschedule times, the agent called the
-provider "Averker." A few turns later, when confirming the final
-rescheduled appointment, it correctly said "Dr. Bricker," which matches
-the provider from the original booking in scenario 1. I checked the
-actual audio recording to confirm this wasn't just a transcription
-mistake — the agent really did say two different names. A patient
-hearing this might not know who they're actually seeing, especially if
-they try to look the doctor up afterward.
+**Details:** This happened the same way in two separate calls. When the
+agent says "Doctor" before the provider's name, it comes out correctly
+as "Dr. Bricker." But when it says the name by itself, with no
+"Doctor" in front, it comes out garbled, like "Abricker" or "Averker."
+I checked both call recordings to confirm this wasn't just a
+transcription mistake — the agent's actual voice says it differently
+both ways. Not sure if this is the voice mispronouncing the name or the
+system pulling a different name internally, but it happens consistently
+enough that it's worth a look. A patient could get confused about their
+doctor's actual name from this.
