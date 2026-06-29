@@ -1,0 +1,31 @@
+Call ID: 019f11b8-916f-755e-b0f2-d26cf791b394
+Scenario: scenario_5_medication_refill
+==================================================
+
+Vapi: Hello.
+Pretty Good AI: recorded for quality and training purposes. Thanks for calling Pivot Point Orthopedics, part of PrettyGood AI. Am I speaking with Jiggy?
+Vapi: Yeah. This is Jiggy. How's it going?
+Pretty Good AI: Can you please provide your date of birth
+Vapi: Sure thing. It's o seven zero four two thousand.
+Pretty Good AI: Glad to hear from you, Jiggy. can I help you today?
+Vapi: Yeah. So I was calling because I need a refill on my pain medication. It was for my ankle injury, and I'm running kind of low. Just didn't wanna risk running out. You know?
+Pretty Good AI: Which pain medication do you need refill for your ankle injury?
+Vapi: Let me think. I'm pretty sure it's oxycodone. That's what they prescribed after the injury.
+Pretty Good AI: How many days of oxycodone do you have left? if you're already out. just let me know.
+Vapi: Uh, I think I've got, like, two days left, maybe three tops. So, yeah, I just wanna get ahead of it before it's all gone.
+Pretty Good AI: I have your number as five one three eight two two seven three five eight. Is that the best number for a callback?
+Vapi: Yeah. That's the right number. You can reach me there.
+Pretty Good AI: Is there anything else you'd like the team to know about your refill request? For example, any new symptoms or concerns?
+Vapi: No new symptoms, really. Just the usual pain from the ankle. It's healing, but I still need the meds to manage it. That's about it.
+Pretty Good AI: Could you please tell me the name of the pharmacy you want to use for your medication? If you know the address, city, or any details like cross streets or nearby stores, that would help too.
+Vapi: Short
+Pretty Good AI: if you have their phone or fax number, please share that as well.
+Vapi: Sure. The pharmacy is Walgreens. It's on Main Street near the corner by the gas station. I don't have the phone or fax number off the top of my head, though.
+Pretty Good AI: Could you tell me the city and state where this Walgreens is located That will help make sure your medication
+Vapi: Oh. Yeah. Of course. It's in Cincinnati, Ohio.
+Pretty Good AI: I found a Walgreens on Main Street in Cincinnati. Is this the one you use Walgreens Drugstore at four zero six Main Street, Cincinnati, ZIP code four five two zero two?
+Vapi: Yeah. That sounds like the one. That's perfect.
+Pretty Good AI: I've documented your refill request for your pain medication. Our clinic... our team will review it and get back to you as soon as they can. Is there anything else you need help with right now?
+Vapi: Nope. That's all I needed. Thanks for taking care of that for me. I appreciate it.
+Pretty Good AI: You're all set, Gigi. The team will follow-up soon about your refill. Have a good night.
+Vapi: Thanks so much, you too. Take care.
