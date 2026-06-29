@@ -1,0 +1,21 @@
+Call ID: 019f1060-0a11-7000-847e-0efc55632afb
+Scenario: scenario_1_new_patient_scheduling
+==================================================
+
+Vapi: Hello.
+Pretty Good AI: Recorded for quality and training purposes. Thank you for calling Pivot Point Orthopedics. Would you like to create a demo patient profile? I just need your first and last name to get started.
+Vapi: Uh, Yeah. Sure. My name is Jiggy Jonathan.
+Pretty Good AI: Your patient profile is set up, and your date of birth is July fourth two thousand for demo purposes. How may I help you today?
+Vapi: Yeah. So, um, I twisted my ankle playing basketball recently, and it's been pretty sore. I wanted to schedule an appointment to get it checked out. I'm a new patient, by the way.
+Pretty Good AI: Thanks for sharing, Matt. Since you're a new patient and have an urgent concern about your ankle, would you like to schedule an initial consultation to address your injury?
+Vapi: Yeah. That'd be great. I just wanna make sure everything's okay with it. When's the soonest I could come in?
+Pretty Good AI: Do you have a specific provider you'd like to see, or are you open to the first available appointment.
+Vapi: I'm open to the first available appointment. I just wanna get it checked out as soon as possible.
+Pretty Good AI: There aren't any openings for new patient consultations through next Sunday. Would you like me to check for the following week, or do you have a specific day in mind after July fifth?
+Vapi: Yeah. Could you check for the following week? the sooner the better, but I can be flexible with the day.
+Pretty Good AI: The soonest openings are on Thursday, July ninth. At times at nine forty five AM. Would any of these work for you?
+Vapi: Yeah. July ninth at nine forty five AM works for me. Let's go with that.
+Pretty Good AI: Your appointment is set for Thursday, July ninth at nine forty five AM with doctor Adam Bricker at Pivot Point Orthopedics. Please bring a photo ID, your insurance card, a list of any medications, and any imaging discs you have. Is there anything else I can help you with?
+Vapi: No. That covers it. Thanks a lot for your help. I'll see you guys then.
+Pretty Good AI: You're all set for your visit. We look forward to seeing you then. Have a great day.
+Vapi: Thanks. You too. Bye.
