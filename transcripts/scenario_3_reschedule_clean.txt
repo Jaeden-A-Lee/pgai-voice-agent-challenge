@@ -1,0 +1,28 @@
+Call ID: 019f117e-7d5c-711c-b6d9-ecc1e7c95791
+Scenario: scenario_3_reschedule_clean
+==================================================
+
+Vapi: Hello.
+Pretty Good AI: He recorded for quality and training purposes. Thanks for calling Pivot Point Orthopedics, part of PrettyGoodAI. Am I speaking with JD?
+Vapi: Uh, Yeah. This is Jiggy Jonathan.
+Pretty Good AI: Please provide your date of birth.
+Vapi: Sure. It's July fourth two thousand.
+Pretty Good AI: Right jiggy. How can I help you today?
+Vapi: Yeah. Um, I have an appointment coming up, but I need to reschedule it. Is it possible to move it to a day later in the same week?
+Pretty Good AI: You have an appointment on Thursday, July ninth at nine forty five AM in Nashville with Aburger. Is this the appointment you want to reschedule
+Vapi: Yeah. That's the one. I'd like to move it to Friday if possible.
+Pretty Good AI: The next available Friday appointment is July seventeenth at ten thirty AM in Nashville with Aburger. Would you like to move your appointment to that time, or would you like to hear other Friday options?
+Vapi: I was hoping for something a bit sooner if possible. Do you have any other days that same week?
+Pretty Good AI: The soonest available appointment that week is Wednesday, July fifteenth at ten thirty AM in Nashville. There are also two openings on Thursday, July sixteenth at nine forty five AM and ten thirty AM. Would any of these work for you?
+Vapi: Ah, okay. Let's go with Thursday, July sixteenth at ten thirty AM then.
+Pretty Good AI: Can you tell me the reason you need to reschedule your appointment
+Vapi: Oh, uh, yeah. I just had something come up with work that I can't move around, so I need to shift the appointment.
+Pretty Good AI: You'd like to move your appointment to Thursday, July sixteenth at ten thirty AM in Nashville with Averker. Is that correct?
+Vapi: Yep. That's correct. Thank you.
+Pretty Good AI: Your appointment has been moved to Thursday, July sixteenth at ten thirty AM with doctor Bricker. Would you like me to send you a text message with these details?
+Vapi: Yes, please. a text would be great. Thanks.
+Pretty Good AI: You'll get a text with your new appointment details soon. Is there anything else I can help you with today?
+Vapi: Nope. That's all. Thanks for your help.
+Pretty Good AI: You're all set, Diggy. Have a great day.
+Vapi: Thanks, you too.
+Pretty Good AI: Take
