@@ -1,0 +1,11 @@
+Call ID: 019f1a54-6516-7000-8e9e-5f9e480fdccf
+Scenario: scenario_6_hours_question_cold
+==================================================
+
+Vapi: Hello.
+Pretty Good AI: Forwarded for quality and training purposes. Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. Am I speaking with Jiggy?
+Vapi: Uh, Yeah. This is Jiggy. What are your office hours?
+Pretty Good AI: Our clinic is open Monday, Tuesday, and Thursday from nine AM to four PM, Wednesday from twelve PM to seven PM, and Friday from nine AM to twelve PM. How can I help you today?
+Vapi: Oh, okay. Cool. Thanks for that. Uh, I think that's all I needed for now. Appreciate it.
+Pretty Good AI: You're welcome. If you need anything else, just give us a call. Have a great day.
+Vapi: Thanks, you too. Bye.
