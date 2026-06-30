@@ -69,6 +69,8 @@ python main.py
 Results are saved automatically to `transcripts/` and `recordings/`.
 
 ## Project structure
+
+```
 pgai-voice-agent-challenge/
 ├── main.py                  # Scenario runner (single or full batch)
 ├── assistant_config.py      # Patient persona, voice/model config
@@ -82,6 +84,7 @@ pgai-voice-agent-challenge/
 │   └── bug_report.md        # Documented issues found during testing
 ├── .env.example             # Environment variable template
 └── requirements.txt         # Python dependencies
+```
 
 ## Test phone number used
 All calls placed from Vapi number: `+15138227358`
