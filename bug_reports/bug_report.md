@@ -78,6 +78,7 @@ didn't wait for the caller to finish speaking before jumping into its
 verification flow. A real patient might find this jarring, especially
 mid-thought.
 
+---
 
 **Bug:** Agent speculates about office hours instead of stating them as fact
 
@@ -95,6 +96,7 @@ the office is closed on a given day, not hedge with uncertainty about
 its own practice's schedule. A patient hearing this might not trust
 the answer or might call back to double-check.
 
+---
 
 **Bug:** Agent implies it can access clinical test results before routing the request
 
@@ -113,6 +115,7 @@ read them back, which raises real expectations around data access and
 privacy. Should immediately recognize test result requests as
 out-of-scope and route them without implying clinical data access.
 
+---
 
 **Bug:** Agent audio drops out mid-sentence then resumes abruptly
 
