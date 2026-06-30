@@ -1,0 +1,21 @@
+Call ID: 019f1a5d-0467-7000-b569-af40ac051eab
+Scenario: scenario_7_insurance_question_obscure
+==================================================
+
+Vapi: Hello.
+Pretty Good AI: may be recorded for quality and training purposes. Thanks for calling Pivot Point Orthopedics, part of PrettyGoodAI. Am I speaking with JD?
+Vapi: Uh, no. This is Jiggy Jonathan. I might have called the wrong place. I was just trying to check if you guys take us
+Pretty Good AI: Please provide your date of birth.
+Vapi: Yeah. Sure. It's o seven zero four two thousand.
+Pretty Good AI: Thank you Please provide your last name as
+Vapi: Sure. It's Jonathan.
+Pretty Good AI: Right. Thanks for confirming. can I help you today?
+Vapi: Yeah. I was just wondering if you guys accept an insurance plan called Meadowlake Health. It's kind of a smaller regional plan.
+Pretty Good AI: Let me check on insurance options for you. One moment.
+Vapi: Sure thing. Thanks.
+Pretty Good AI: Could you share your member ID number from your Meadowlake Health card?
+Vapi: Oh, um, I don't have it on me right now. I was just trying to see if you guys accept it before I dig it up.
+Pretty Good AI: No problem. I'll need your member ID in the state where your Meadowlake Health plan was issued to check if it's accepted. If you find that info later, just let us know, and we can look it up for you. there anything else I can help with right now?
+Vapi: Okay. Got it. Thanks for letting me know. I'll check my card and call back. That's it for now. Thanks.
+Pretty Good AI: You're welcome. Have a great day.
+Vapi: You too. Take care.
