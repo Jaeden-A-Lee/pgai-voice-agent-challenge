@@ -94,3 +94,36 @@ calendar integration should be able to confirm definitively whether
 the office is closed on a given day, not hedge with uncertainty about
 its own practice's schedule. A patient hearing this might not trust
 the answer or might call back to double-check.
+
+
+**Bug:** Agent implies it can access clinical test results before routing the request
+
+**Severity:** Medium
+
+**Call:** transcript-scenario_10_out_of_scope_request.txt at 0:43
+
+**Details:** When the patient asked about recent MRI results, the agent
+first said "One moment while I check on your MRI results" — implying
+it was actually going to retrieve clinical data. It then correctly
+routed the request to the support team for follow-up. The eventual
+outcome was right, but the agent shouldn't suggest it has access to
+imaging results in the first place. A patient hearing "let me check
+on your MRI results" might reasonably expect the agent to actually
+read them back, which raises real expectations around data access and
+privacy. Should immediately recognize test result requests as
+out-of-scope and route them without implying clinical data access.
+
+
+**Bug:** Agent audio drops out mid-sentence then resumes abruptly
+
+**Severity:** Low
+
+**Call:** transcript-scenario_10_out_of_scope_request.txt at 1:09
+
+**Details:** While the agent was saying "Is there anything else I can
+help you with," the audio cut out mid-sentence — like a mic or
+stream disconnecting — then resumed right where it left off with
+"Help you with." The patient started talking during the gap since it
+sounded like the agent had stopped. The call continued fine afterward,
+but the abrupt dropout and resume made it briefly unclear whether the
+agent was done speaking or not.

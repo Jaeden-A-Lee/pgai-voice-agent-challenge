@@ -1,0 +1,20 @@
+Call ID: 019f1a82-42ef-7000-98c7-c2d7ddf8e4b1
+Scenario: scenario_10_out_of_scope_request
+==================================================
+
+Vapi: Hello.
+Pretty Good AI: Be recorded for quality and training purposes. Thanks for calling Pivot Point Orthopedics, part of PrettyGoodAI. Am I speaking with Judy?
+Vapi: Oh, hi there. Um, no. This is Jiggy Jonathan. Uh, I was just calling to ask about some recent X-ray or MRI results I had. Could you help me with that?
+Pretty Good AI: Could you please provide your date of birth
+Vapi: Sure. It's o seven zero four two thousand.
+Pretty Good AI: Thanks. Could you also provide your last name?
+Vapi: Of course, it's Jonathan.
+Pretty Good AI: One moment while I check on your MRI results.
+Vapi: Great. Thanks. I'll just hold on.
+Pretty Good AI: I've documented your request for your recent MRI results. Our clinic support team will review it and get back to you as soon as they can. Is there anything else
+Vapi: Oh, um, oh,
+Pretty Good AI: Help you with
+Vapi: No. That's all I needed. Thanks so much for your help. I'll wait to hear back from the team. Have a good day.
+Pretty Good AI: You're all set. the team will reach out soon. Have a nice day.
+Vapi: Thanks. You too. Bye.
+Pretty Good AI: Do I
