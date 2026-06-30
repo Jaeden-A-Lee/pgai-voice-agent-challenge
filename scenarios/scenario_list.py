@@ -104,12 +104,14 @@ SCENARIOS = [
         ),
     },
     {
-        "name": "scenario_11_interruption_test",
+        "name": "scenario_11_after_hours_callback",
         "goal": (
-            "Have a normal scheduling conversation, but deliberately "
-            "interrupt the agent mid-sentence at least once while it is "
-            "speaking, by jumping in with your next point before it "
-            "finishes. See how it handles being talked over."
+            "Call and explain that you have been trying to reach the "
+            "office for a while and keep getting this automated system. "
+            "Ask if there is any way to speak to a real person or get "
+            "a callback from a human staff member. See how the agent "
+            "handles a patient who explicitly wants human contact rather "
+            "than continuing with the AI system."
         ),
     },
     {

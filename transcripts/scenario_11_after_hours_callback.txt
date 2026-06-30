@@ -1,0 +1,13 @@
+Call ID: 019f1aa4-758e-7000-bf33-5e4487d3462a
+Scenario: scenario_11_after_hours_callback
+==================================================
+
+Vapi: Hello.
+Pretty Good AI: recorded for quality and training purposes. Thanks for calling To the Point Orthopedics, part of PrettyGoodAI. Am I speaking with JD?
+Vapi: No. This is Jiggy Jonathan. Did you say pretty good AI? Yeah. I've been trying to reach her office for a while now, and I keep getting this automated system. Is there any way I can talk to a real person or maybe get a callback from someone on staff?
+Pretty Good AI: I can connect you to our patient support team. However, I'm a pretty good AI and can do many of the things in operator camp. Do you wanna give me a try?
+Vapi: I appreciate that, but I'd really prefer to speak with a real person. Is there a way you can connect me to the patient support team or have someone call me back?
+Pretty Good AI: Connecting you to a representative. Please wait.
+Vapi: Thank you so much. I
+Pretty Good AI: Hello. You've reached the pretty good AI test line. Goodbye.
+Vapi: Okay. That was unexpected. I guess I'll have to try calling again later. Thanks anyway.
