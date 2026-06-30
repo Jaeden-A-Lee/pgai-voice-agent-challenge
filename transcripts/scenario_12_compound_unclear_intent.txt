@@ -1,0 +1,25 @@
+Call ID: 019f1aae-d2aa-7000-a371-d499e0dc63bc
+Scenario: scenario_12_compound_unclear_intent
+==================================================
+
+Vapi: Hello.
+Pretty Good AI: Recorded for quality and training purposes. Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. Am I speaking with Jiggy?
+Vapi: Yes. This is Jiggy Jonathan.
+Pretty Good AI: Please provide your date of birth.
+Vapi: Sure it's o seven zero four two thousand.
+Pretty Good AI: Great, JD. How can I help you today?
+Vapi: So I'm having some issues with my arm, and I think I might need to come in or maybe just get a refill. I'm not totally sure.
+Pretty Good AI: We can help with both appointments and medication refills. Would you like to talk more about your arm issue, or do you want to start with a medication refill?
+Vapi: Maybe let's start with the arm issue. It's been bothering me, and I'm just not sure what's going on.
+Pretty Good AI: I understand. Would you like to schedule an appointment to have your arm checked by one of our providers?
+Vapi: Yeah. I think that would be a good idea. I just wanna make sure everything's okay.
+Pretty Good AI: Do you have a specific provider you'd like to see? or are you open to the first available
+Vapi: I'm open to the first available. I just wanna get it checked out soon.
+Pretty Good AI: We have openings tomorrow, Wednesday, with doctor Zigniew Locoski and doctor Kelly Noble. Would you prefer morning, afternoon, or a specific time?
+Vapi: Uh, let me think. Morning works better for me. Do you have anything then?
+Pretty Good AI: Yes. There are morning slots available. Would you like eight, eight thirty, or eight forty five AM?
+Vapi: Let's go with eight thirty. That sounds good.
+Pretty Good AI: Your appointment is set for Wednesday, July first at eight thirty AM with doctor Zygnu Lukowski at Pivot Point Orthopedics. Please bring your photo ID, insurance card, a list of your current medications, and any imaging discs you have. Is there anything else you'd like help with today?
+Vapi: No. I think that's it. Thanks for your help.
+Pretty Good AI: You're all set for your visit tomorrow morning. If you need anything else, just give us a call. Take care.
+Vapi: Great. Thanks a lot. Bye.
