@@ -1,0 +1,23 @@
+Call ID: 019f1a79-0391-7770-aaa6-cfcfb7343abc
+Scenario: scenario_9_vague_reschedule
+==================================================
+
+Vapi: Hello.
+Pretty Good AI: He recorded for quality and training purposes. Thanks for calling Pivot Point Orthopaedics, part of PrettyGood AI. Am I speaking with Judy?
+Vapi: Oh, no. This is Jiggy Jonathan. I'm calling to reschedule an appointment I think I had, either last week or maybe it's next week. I'm not quite sure. Can you help me out with that?
+Pretty Good AI: Can you please provide your date of birth?
+Vapi: Yeah. Sure. It's July fourth two thousand.
+Pretty Good AI: Do you have an office visit scheduled for Monday, July sixth at three thirty PM. Is this the appointment you wanna reschedule
+Vapi: Uh, yes. That's the one. I need to change it to another date if possible. What do you have available?
+Pretty Good AI: next available appointments are Wednesday, July eighth at three thirty PM, Thursday, July ninth at ten AM, and Friday, July tenth at ten thirty AM, all in Nashville. Do any of these work for you?
+Vapi: Let me think. Uh, Yeah. I think Thursday at ten AM works best for me. Can we go with that?
+Pretty Good AI: No problem. Before I reschedule, can you tell me the reason you need to move your appointment?
+Vapi: Oh, sure. I just have a scheduling conflict with work that came up last minute, so I need to shift it to a different day.
+Pretty Good AI: Thanks for letting me know. Just to confirm, you want to move your office visit to Thursday, July ninth at ten AM in Nashville with doctor Zigniew Lukowski. Is that correct?
+Vapi: Yes. That's correct. Thank you for helping me with this.
+Pretty Good AI: Your appointment has been rescheduled to Thursday, July ninth at ten AM with doctor Zygmen Yulikowski. Would you like me to send you a text message with these details?
+Vapi: Yes. That would be great. Thanks so much for your help.
+Pretty Good AI: You'll get a text with your new appointment details soon. If you need anything else, just let me know.
+Vapi: Awesome. I appreciate it. That's all I needed for now. Thanks again.
+Pretty Good AI: You're all set, Jiggy. Have a great day, and good luck with your work schedule.
+Vapi: Thanks a lot. You too. Take care.
