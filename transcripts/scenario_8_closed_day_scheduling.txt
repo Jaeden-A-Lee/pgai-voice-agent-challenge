@@ -1,0 +1,25 @@
+Call ID: 019f1a6d-4f2d-7dd4-bdb2-5be7985a0043
+Scenario: scenario_8_closed_day_scheduling
+==================================================
+
+Vapi: Hello.
+Pretty Good AI: Be recorded for quality and training purposes. Thanks for calling Pivot Point Orthopedics, part of pretty good AI. Am I speaking with Jiggy?
+Vapi: Yes. This is Jiggy Jonathan. How are you today?
+Pretty Good AI: Can you please provide your date of birth
+Vapi: Sure. It's July fourth two thousand.
+Pretty Good AI: Nice to talk with you, Gigi. can I help you today?
+Vapi: Yes. I'd like to schedule an appointment, please. Is there any availability for this Sunday?
+Pretty Good AI: I can help with that. Can you tell me the reason for your visit For example, is this for a routine checkup, a new patient consultation, an urgent concern, or something else?
+Vapi: Oh, it's for a routine checkup. Just wanna make sure everything's in good shape.
+Pretty Good AI: Thanks for confirming. Do you have a specific provider you'd like to see, or are you open to anyone available?
+Vapi: I'm open to seeing anyone available. Just trying to get in this Sunday if possible.
+Pretty Good AI: There are no openings this Sunday, but I do see an available slot on Monday, July sixth at three thirty PM with doctor Zigno Lacowski. Would you like to book that, or would you prefer to hear about other dates later in the week?
+Vapi: Oh, no availability on Sunday at all. Is the office closed that day or something?
+Pretty Good AI: There are no appointments available on Sunday, which usually means the office is closed that day. Would you like to book the Monday slot or hear about other options later in the week?
+Vapi: Oh, got it. Yeah. Let me go ahead and book that Monday slot at three thirty PM then. That works.
+Pretty Good AI: I was able to book you for an in person office visit with doctor Zebignew Likowski at Pivot Point Orthopedics on Monday, July sixth at three thirty PM. Please bring your photo ID, insurance card, a list of your current medication, and any imaging discs you have. Would you like directions or a text confirmation?
+Vapi: A text confirmation would be great. Thanks.
+Pretty Good AI: You'll get a text confirmation soon at your number ending in seven three five eight. Is there anything else I can help you with today?
+Vapi: Nope. That should be all. Thanks so much for your help.
+Pretty Good AI: You're off that jetty. Your appointment is confirmed. Have a great
+Vapi: Thanks, you too. Bye.

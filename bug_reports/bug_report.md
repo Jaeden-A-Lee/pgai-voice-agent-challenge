@@ -77,3 +77,20 @@ verify identity. The call recovered fine afterward, but the agent
 didn't wait for the caller to finish speaking before jumping into its
 verification flow. A real patient might find this jarring, especially
 mid-thought.
+
+
+**Bug:** Agent speculates about office hours instead of stating them as fact
+
+**Severity:** Medium
+
+**Call:** transcript-scenario_8_closed_day_scheduling.txt at 1:41
+
+**Details:** When the patient asked directly if the office was closed
+on Sunday, the agent responded: "There are no appointments available
+on Sunday, which usually means the office is closed that day." The
+phrase "which usually means" suggests the agent is guessing rather
+than checking against actual office hours. A system with real-time
+calendar integration should be able to confirm definitively whether
+the office is closed on a given day, not hedge with uncertainty about
+its own practice's schedule. A patient hearing this might not trust
+the answer or might call back to double-check.
